@@ -46,7 +46,8 @@ void main(void)
      float AUX;
      for (I=0; I < (C / 2); I++)
         for (J=0; J < F; J++)
-     {
+     {5
+
          AUX = A[J][I];
          A[J][I] = A[J][C-I-1];
          A[J][C-I-1]=AUX;
