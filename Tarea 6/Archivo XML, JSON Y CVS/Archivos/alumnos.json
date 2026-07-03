@@ -1,0 +1,62 @@
+[
+    {
+        "matricula":"20260909",
+        "nombre":"Junior Suero",
+        "edad":24,
+        "carrera":"Software"
+    },
+    {
+        "matricula":"20251143",
+        "nombre":"Martin Diaz",
+        "edad":24,
+        "carrera":"Redes"
+    },
+    {
+        "matricula":"20258003",
+        "nombre":"Jose Brito",
+        "edad":19,
+        "carrera":"Multimedia"
+    },
+    {
+        "matricula":"20240004",
+        "nombre":"Stalin Mejia",
+        "edad":32,
+        "carrera":"Telecomunicaciones"
+    },
+    {
+        "matricula":"20254305",
+        "nombre":"Pedro Martinez",
+        "edad":19,
+        "carrera":"Ciberseguridad"
+    },
+    {
+        "matricula":"20250069",
+        "nombre":"Arisleidy Ciprian",
+        "edad":23,
+        "carrera":"Software"
+    },
+    {
+        "matricula":"20261150",
+        "nombre":"Steudy Mejia",
+        "edad":23,
+        "carrera":"Redes"
+    },
+    {
+        "matricula":"20261202",
+        "nombre":"Katherine Roa",
+        "edad":18,
+        "carrera":"Multimedia"
+    },
+    {
+        "matricula":"20254490",
+        "nombre":"Alexandra Duluc",
+        "edad":29,
+        "carrera":"Telecomunicaciones"
+    },
+    {
+        "matricula":"20259010",
+        "nombre":"Christopher Morgan",
+        "edad":27,
+        "carrera":"Software"
+    }
+]

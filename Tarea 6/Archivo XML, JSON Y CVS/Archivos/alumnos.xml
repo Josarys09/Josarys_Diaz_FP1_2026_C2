@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<alumnos>
+
+<alumno>
+    <matricula>20260909</matricula>
+    <nombre>Junior Suero</nombre>
+    <edad>24</edad>
+    <carrera>Software</carrera>
+</alumno>
+
+<alumno>
+    <matricula>20251143</matricula>
+    <nombre>Martin Diaz</nombre>
+    <edad>24</edad>
+    <carrera>Redes</carrera>
+</alumno>
+
+<alumno>
+    <matricula>20258003</matricula>
+    <nombre>Jose Brito</nombre>
+    <edad>19</edad>
+    <carrera>Multimedia</carrera>
+</alumno>
+
+<alumno>
+    <matricula>20240004</matricula>
+    <nombre>Stalin Diaz</nombre>
+    <edad>32</edad>
+    <carrera>Telecomunicaciones</carrera>
+</alumno>
+
+<alumno>
+    <matricula>20254305</matricula>
+    <nombre>Pedro Martinez</nombre>
+    <edad>19</edad>
+    <carrera>Ciberseguridad</carrera>
+</alumno>
+
+<alumno>
+    <matricula>20250069</matricula>
+    <nombre>Arisleidy Ciprian</nombre>
+    <edad>23</edad>
+    <carrera>Software</carrera>
+</alumno>
+
+<alumno>
+    <matricula>20261150</matricula>
+    <nombre>steudy Mejia</nombre>
+    <edad>23</edad>
+    <carrera>Redes</carrera>
+</alumno>
+
+<alumno>
+    <matricula>20261202</matricula>
+    <nombre>Katherine Roa</nombre>
+    <edad>18</edad>
+    <carrera>Multimedia</carrera>
+</alumno>
+
+<alumno>
+    <matricula>20254490</matricula>
+    <nombre>Alexandra Dulic</nombre>
+    <edad>29</edad>
+    <carrera>Telecomunicaciones</carrera>
+</alumno>
+
+<alumno>
+    <matricula>20259010</matricula>
+    <nombre>Christopher Morgan</nombre>
+    <edad>27</edad>
+    <carrera>Software</carrera>
+</alumno>
+
+</alumnos>
