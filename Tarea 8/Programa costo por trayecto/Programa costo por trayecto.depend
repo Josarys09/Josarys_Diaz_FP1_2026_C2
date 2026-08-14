@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1786738095 source:c:\users\user\desktop\programa costo por trayecto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
